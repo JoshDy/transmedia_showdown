@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Splash Screen 1.unity
+    guid: 6b32bf70d93c9df4191d6ad1648df5b3
+  - enabled: 1
+    path: Assets/Levels/Splash Screen 2.unity
+    guid: ba0fe0d7d8edc9d4c9c7931ee2987a81
+  - enabled: 1
+    path: Assets/Levels/Main Menu.unity
+    guid: a0359515338afd64e802de25ebdcb790
+  - enabled: 1
+    path: Assets/Levels/PlayerSelection.unity
+    guid: c03e6cbf877504e43a90bb51595edea2
+  - enabled: 1
+    path: Assets/Levels/PlayerSelection2.unity
+    guid: 085d5af0e7a09a441b617b908b9557e7
+  - enabled: 1
+    path: Assets/Levels/LevelSelection.unity
+    guid: 4368c4446790854478f73f16ebc7d4f2
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 2758f6d5690315942a0746c2ac516625
+  - enabled: 1
+    path: Assets/Levels/Game Over.unity
+    guid: 48acf8b1da57fdb4aa4e89128ceff799
+  - enabled: 1
+    path: Assets/Levels/Player 1 Win.unity
+    guid: 72ef488c45d63a94984b9017ec2092d8
+  - enabled: 1
+    path: Assets/Levels/Player 2 Win.unity
+    guid: 3acaf2fe781219045b0322b594280e02
